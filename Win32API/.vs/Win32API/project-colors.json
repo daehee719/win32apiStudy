@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "4a0e96df-f164-48d7-80e5-3d06fc1f16b5": {
+      "ProjectGuid": "4a0e96df-f164-48d7-80e5-3d06fc1f16b5",
+      "DisplayName": "Win32API",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
